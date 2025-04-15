@@ -42,7 +42,7 @@ export default function HeroSection() {
             </p>
 
             <p className="mb-3 text-base sm:text-lg text-slate-700">
-              Essas atividades extras podem <stron>potencializar suas aulas</stron>, com conteúdos que vão além do que já temos nos livros.
+              Essas atividades extras podem <strong>potencializar suas aulas</strong>, com conteúdos que vão além do que já temos nos livros.
             </p>
             <p className="mb-6 text-base sm:text-lg text-slate-700">
             Você também pode consultar o arquivo do <strong>Educador</strong>, que contém as respostas, ou imprimir o arquivo do <strong>Estudante</strong>, caso queira utilizá-lo diretamente com sua turma.
