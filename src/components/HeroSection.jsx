@@ -38,16 +38,14 @@ export default function HeroSection() {
             </h1>
 
             <p className="mb-3 sm:mb-6 text-base sm:text-lg text-slate-700">
-              Aqui você consegue acessar nossos exercícios extras de matemática.
-            
-              Você pode acessar os PDFs por capítulo, podendo baixar ou abrir pelo próprio site.
+              Aqui você pode acessar nossos <strong>exercícios extras de matemática</strong>. Os PDFs estão organizados por capítulo, e você pode optar por baixá-los ou visualizá-los diretamente no site.
             </p>
 
             <p className="mb-3 text-base sm:text-lg text-slate-700">
-              As atividades extras podem potencializar suas aulas com conteúdos que vão além do que já temos nos livros.
+              Essas atividades extras podem <stron>potencializar suas aulas</stron>, com conteúdos que vão além do que já temos nos livros.
             </p>
             <p className="mb-6 text-base sm:text-lg text-slate-700">
-            Você pode ver o arquivo do Educador, que tem as respostas, mas também pode imprimir o arquivo do Estudante, caso queira utilizá-lo diretamente com sua turma.
+            Você também pode consultar o arquivo do <strong>Educador</strong>, que contém as respostas, ou imprimir o arquivo do <strong>Estudante</strong>, caso queira utilizá-lo diretamente com sua turma.
             </p>
             {/* Button - centralizado em mobile, sem ocupar toda a largura */}
             <div className="flex justify-center sm:justify-start">
