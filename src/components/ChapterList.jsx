@@ -34,7 +34,7 @@ const ChapterList = () => {
         Biblioteca de Capítulos
       </h1>
       <p className="text-lg text-gray-600 text-center mb-8 max-w-3xl mx-auto pb-4">
-        Explore os capítulos abaixo e visualize / baixe os conteúdos do Caderno do Educacor ou do Livro do Estudante.
+        Explore os capítulos abaixo e visualize / baixe os conteúdos do Caderno do Educador ou do Livro do Estudante.
       </p>
 
       {chapters.map((chapter) => (
