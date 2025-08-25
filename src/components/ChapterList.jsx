@@ -7,6 +7,10 @@ const chapters = [
   { id: 3, title: "As tentações do mercado... Me segura pra eu não gastar!", teacherPdf: "/assets/pdfs/Educador_Capitulo_3_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_3_6o.pdf" },
   { id: 4, title: "Alcançando objetivos em família", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_6o.pdf" },
   { id: 5, title: "Poupando o bolso e o meio ambiente", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_6o.pdf" },
+  
+  { id: 6, title: "Dividindo balas durante a aula", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_6o.pdf" },
+  { id: 7, title: "Cem por cento dos alunos gostam de feriados", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_6o.pdf" },
+  
   // ... mais capítulos  
 ];
 
