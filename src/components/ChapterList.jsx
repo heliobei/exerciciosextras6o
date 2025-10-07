@@ -10,6 +10,8 @@ const chapters = [
   
   { id: 6, title: "Dividindo balas durante a aula", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_6o.pdf" },
   { id: 7, title: "Cem por cento dos alunos gostam de feriados", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_6o.pdf" },
+  { id: 8, title: "Cem por cento dos alunos gostam de feriados", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_6o.pdf" },
+  { id: 9, title: "Cem por cento dos alunos gostam de feriados", teacherPdf: "/assets/pdfs/Educador_Capitulo_09_6o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_09_6o.pdf" },
   
   // ... mais capítulos  
 ];
